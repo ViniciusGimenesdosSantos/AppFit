@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MauiAppFit.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MauiAppFit"
+    xmlns:Views="clr-namespace:MauiAppFit.Views"
+    Title="MauiAppFit">
+
+    <TabBar>
+        <Tab Title="Nova Atividade"
+             Route="CadastroAtividade">
+            <ShellContent>
+                <Views:CadastroAtividade Title="Cadastro Atividade" />
+            </ShellContent>
+        </Tab>
+        
+        <Tab Title="Minhas Atividades"
+             Route="ListaAtividades">
+            <ShellContent>
+                <Views:ListaAtividades Title="Minhas Atividades" />
+            </ShellContent>
+        </Tab>
+        
+        <Tab Title="Sobre"
+             Route="Sobre">
+            <ShellContent>
+                <Views:Sobre Title="Sobre" />
+            </ShellContent>
+        </Tab>
+    </TabBar>
+
+    
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>

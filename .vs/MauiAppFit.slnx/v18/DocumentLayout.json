@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\helpers\\sqlitedatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\views\\cadastroatividade.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\views\\cadastroatividade.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\views\\listaatividades.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\views\\listaatividades.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\viewmodels\\cadastroatividadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\viewmodels\\cadastroatividadeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\viewmodels\\listaatividadesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\viewmodels\\listaatividadesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|c:\\users\\vinic\\onedrive\\documentos\\dispositivosmoveis2\\mauiappfit\\mauiappfit\\views\\listaatividades.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C258DEFD-1A66-3E3C-CF72-289CE96F9A61}|MauiAppFit\\MauiAppFit.csproj|solutionrelative:mauiappfit\\views\\listaatividades.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\App.xaml",
+              "RelativeDocumentMoniker": "MauiAppFit\\App.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\App.xaml",
+              "RelativeToolTip": "MauiAppFit\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-01T12:47:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "MauiAppFit\\Helpers\\SQLiteDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Helpers\\SQLiteDatabaseHelper.cs",
+              "RelativeToolTip": "MauiAppFit\\Helpers\\SQLiteDatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:00:18.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CadastroAtividade.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Views\\CadastroAtividade.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppFit\\Views\\CadastroAtividade.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Views\\CadastroAtividade.xaml.cs",
+              "RelativeToolTip": "MauiAppFit\\Views\\CadastroAtividade.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:40:38.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastroAtividadeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\ViewModels\\CadastroAtividadeViewModel.cs",
+              "RelativeDocumentMoniker": "MauiAppFit\\ViewModels\\CadastroAtividadeViewModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\ViewModels\\CadastroAtividadeViewModel.cs",
+              "RelativeToolTip": "MauiAppFit\\ViewModels\\CadastroAtividadeViewModel.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwIEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:37:34.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaAtividades.xaml",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Views\\ListaAtividades.xaml",
+              "RelativeDocumentMoniker": "MauiAppFit\\Views\\ListaAtividades.xaml",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Views\\ListaAtividades.xaml",
+              "RelativeToolTip": "MauiAppFit\\Views\\ListaAtividades.xaml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T13:12:41.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaAtividades.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Views\\ListaAtividades.xaml.cs",
+              "RelativeDocumentMoniker": "MauiAppFit\\Views\\ListaAtividades.xaml.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\Views\\ListaAtividades.xaml.cs",
+              "RelativeToolTip": "MauiAppFit\\Views\\ListaAtividades.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:52:30.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaAtividadesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\ViewModels\\ListaAtividadesViewModel.cs",
+              "RelativeDocumentMoniker": "MauiAppFit\\ViewModels\\ListaAtividadesViewModel.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\DispositivosMoveis2\\MauiAppFit\\MauiAppFit\\ViewModels\\ListaAtividadesViewModel.cs",
+              "RelativeToolTip": "MauiAppFit\\ViewModels\\ListaAtividadesViewModel.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAwHwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:15:48.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
