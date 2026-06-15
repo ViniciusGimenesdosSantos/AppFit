@@ -1,6 +1,6 @@
 # MauiAppFit
 
-Aplicativo desenvolvido em **.NET MAUI** para a disciplina de Desenvolvimento Mobile da FATEC Jahu. É um diário de atividades físicas: o usuário registra atividades (descrição, data, peso e observações), com persistência local em **SQLite**, navegação por abas (**TabBar**) e arquitetura **MVVM** completa.
+Aplicativo desenvolvido em **.NET MAUI** para a disciplina de Programação para Dispositivos Móveis II da FATEC Jahu. É um diário de atividades físicas: o usuário registra atividades (descrição, data, peso e observações), com persistência local em **SQLite**, navegação por abas (**TabBar**) e arquitetura **MVVM** completa.
 
 ## Funcionamento do App
 
